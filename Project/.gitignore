@@ -1,0 +1,10 @@
+.DS_Store
+secrets.txt
+
+# This is a comment
+
+# Log files
+#*.log -> this targets all files with a .log 
+
+# txt files
+#*.txt -> this targets all files with a .txt 
